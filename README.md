@@ -1,4 +1,13 @@
 # fsource-it
+You may view the "dist" folder for the prod-level build of the website
+
+# Technologies / Frameworks used
+- VueJS (Primary Frontend JS Framework)
+- Twitter Bootstrap (Bootstrap-vue, via npm dependency)
+- Fortawesome/fontawesome (vue-fontawesome, via npm dependency)
+- jquery (needed by bootstrap)
+
+
 
 ## Project setup
 ```
